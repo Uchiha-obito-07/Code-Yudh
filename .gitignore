@@ -1,0 +1,6 @@
+﻿.venv/
+.vscode/
+*.ppt
+*.pptx
+*.doc
+*.docx
