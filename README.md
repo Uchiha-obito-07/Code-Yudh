@@ -1,5 +1,4 @@
-<h1 style="font-size: 3em; font-weight: 900;">🏛️ Samvidhaan Saral</h1>
-From Legal Complexity to Everyday Clarity
+<h1 style="font-size: 3em; font-weight: 900;">🏛️ Samvidhaan Saral:</h1>From Legal Complexity to Everyday Clarity
 
 An AI-powered civic-tech platform built to translate dense Indian legal jargon, municipal notices, and constitutional rights into plain-language summaries and actionable checklists.
 
