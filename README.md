@@ -1,4 +1,5 @@
 🏛️ Samvidhaan Saral
+
 From Legal Complexity to Everyday Clarity
 
 An AI-powered civic-tech platform built to translate dense Indian legal jargon, municipal notices, and constitutional rights into plain-language summaries and actionable checklists.
