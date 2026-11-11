@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 
-const API_BASE = "http://127.0.0.1:5000/api";
+const API_BASE = "https://code-yudh-io3t.onrender.com/api";
 
 const SAMPLE_LEGAL_TEXT = `MUNICIPAL CORPORATION NOTICE & LEASE COMPLIANCE
 Pursuant to Section 106 of the Transfer of Property Act, 1882 and Municipal By-Laws:
